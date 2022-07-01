@@ -1,0 +1,15 @@
+{
+  "short_name": "Chat App",
+  "name": "Chat App",
+  "icons": [
+    {
+      "src": "speech-balloon.png",
+      "type": "image/png",
+      "sizes": "120x120"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
